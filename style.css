@@ -1,0 +1,12 @@
+.container{
+    font-size: 46px;
+    background-color: lightblue;
+    border: 2px solid black;
+    padding: 34px;
+    margin: 4px;
+    text-align: center;
+    border-radius: 4px;
+}
+#time{
+    font-weight: bold;
+}
